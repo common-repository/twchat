@@ -1,0 +1,786 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Two Way Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-09 19:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: twchatlang"
+
+#. URI of the plugin
+msgid "\"https://rellaco.com/product/TwoWayChat\""
+msgstr ""
+
+#: classes/Addon_controller.class.php:591
+#, php-format
+msgid ""
+"%s add-on is required to activate this add-on. Please activate it first."
+msgstr ""
+
+#: classes/Addon_controller.class.php:600
+#, php-format
+msgid ""
+"%s add-on version %s or higher is required to activate this add-on. Please "
+"update it first."
+msgstr ""
+
+#: classes/Addon_controller.class.php:610
+#, php-format
+msgid ""
+"%s plugin is required to activate this add-on. Please install and activate "
+"it first."
+msgstr ""
+
+#: classes/Addon_controller.class.php:619
+#, php-format
+msgid ""
+"%s plugin version %s or higher is required to activate this add-on. Please "
+"update it first."
+msgstr ""
+
+#: classes/Accounts.class.php:64
+msgid "Account"
+msgstr ""
+
+#: classes/Accounts.class.php:72
+msgid "Account Image"
+msgstr ""
+
+#: classes/Accounts.class.php:65 classes/Accounts.class.php:66
+#: classes/Accounts.class.php:71
+msgid "Accounts"
+msgstr ""
+
+#: classes/Addon_controller.class.php:374
+msgid "Activate"
+msgstr ""
+
+#: classes/Addon_controller.class.php:359
+msgid "Activate in WordPress"
+msgstr ""
+
+#: classes/Addon_controller.class.php:325
+msgid "Active"
+msgstr ""
+
+#: classes/Settings_callback.class.php:203
+msgid "Add"
+msgstr ""
+
+#: classes/Addon_controller.class.php:230
+msgid "Add-on already activated."
+msgstr ""
+
+#: classes/Addon_controller.class.php:234
+msgid "Add-on already deactivated."
+msgstr ""
+
+#: classes/Addon_controller.class.php:222
+msgid "Add-on deactivated successfully."
+msgstr ""
+
+#: classes/Addon_controller.class.php:238
+msgid "Add-on not found."
+msgstr ""
+
+#: classes/Addon_controller.class.php:226
+msgid "Add-on not installed."
+msgstr ""
+
+#: classes/General.class.php:122 classes/Addon_controller.class.php:90
+#: classes/Addon_controller.class.php:91
+msgid "Add-ons"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allowing admins to send messages to customers and vice versa through popular "
+"chat platforms."
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:54
+msgid "Application - Should have WhatsApp installed on your device"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:53
+msgid "Auto (Recommended)"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:44
+msgid "Available Contacts"
+msgstr ""
+
+#: classes/Accounts.class.php:229
+msgid "Available From"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:72
+msgid "Available from "
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:74
+msgctxt "Available from to"
+msgid "to"
+msgstr ""
+
+#: classes/Accounts.class.php:237
+msgid "Available To"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:55
+msgid "Browser (Web Application)"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:49
+msgid "Bubble"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:285
+msgid "Bubble Background Color"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:60
+msgid "Bubble Text"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:299
+msgid "Bubble Text Color"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:43
+msgid "Chat with us"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:33
+msgid "Chat with us!"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:314
+msgid "Chatbox Background Color"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:342
+msgid "Chatbox Close Button Color"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:328
+msgid "Chatbox Header Color"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:45
+msgid "Choose a way to start a conversation with your customers"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:59
+msgid "Choose the available contacts for the floating widget."
+msgstr ""
+
+#: helpers/AutoLoader.php:65 helpers/AutoLoader.php:109
+#, php-format
+msgid "Class %s not found. please contact the plugin developer."
+msgstr ""
+
+#: templates/admin/settings.php:4
+msgid ""
+"Configure your TWChat settings below. For more information, you can follow "
+"the <a href=\"https://rellaco.com/docs/intro/\" target=\"_blank\">"
+"documentation</a>."
+msgstr ""
+
+#: classes/Addon_controller.class.php:218
+#, php-format
+msgid ""
+"Congratulations! Add-on activated successfully. <b> Configure it from %s.</b>"
+msgstr ""
+
+#: classes/Settings_fields.class.php:56
+msgid "Country Code"
+msgstr ""
+
+#: classes/Accounts.class.php:67
+msgid "Create New Account"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:50
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:80
+msgid "Custom Icon"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:34
+msgid "Customize Floating Widget to your liking."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:76
+msgid "Customize Style in Customizer"
+msgstr ""
+
+#: classes/Addon_controller.class.php:367
+msgid "Deactivate"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:51
+msgid "Default"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:38
+msgid "Description"
+msgstr ""
+
+#: classes/Accounts.class.php:104
+msgid "Details"
+msgstr ""
+
+#: classes/General.class.php:98 classes/General.class.php:99
+#: templates/admin/direct_message.php:3
+msgid "Direct Message"
+msgstr ""
+
+#: classes/Accounts.class.php:311
+msgid "display name as"
+msgstr ""
+
+#: classes/General.class.php:137
+msgid "Docs"
+msgstr ""
+
+#: classes/Addon_controller.class.php:385
+msgid "Download"
+msgstr ""
+
+#: classes/Accounts.class.php:343
+msgid "E.g. +18038475568"
+msgstr ""
+
+#: classes/Accounts.class.php:69
+msgid "Edit Account"
+msgstr ""
+
+#: classes/Accounts.class.php:297 classes/Accounts.class.php:299
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:65
+msgid "Email"
+msgstr ""
+
+#: classes/Settings_fields.class.php:34
+msgid "Enable Direct Message"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:50
+msgid "Enable or disable the bubble."
+msgstr ""
+
+#: classes/Settings_fields.class.php:45
+msgid "Enable Static Country Code"
+msgstr ""
+
+#: classes/Settings_fields.class.php:35
+msgid ""
+"Enable/Disable WhatsApp Button in admin toolbar for easy access to the send "
+"message page."
+msgstr ""
+
+#: templates/admin/direct_message.php:8
+msgid "Enter your message here..."
+msgstr ""
+
+#: classes/Settings.class.php:185
+msgid "Error occurred while saving settings. Please try again."
+msgstr ""
+
+#: classes/Addon_controller.class.php:242
+msgid "Error, Please try again later."
+msgstr ""
+
+#: templates/admin/addons.php:4
+msgid "Extend the functionality of TWChat with these add-ons."
+msgstr ""
+
+#: classes/Accounts.class.php:315
+msgid "First Last"
+msgstr ""
+
+#: classes/Accounts.class.php:268 classes/Accounts.class.php:270
+msgid "First Name"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:31
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:91
+msgid "Floating Widget"
+msgstr ""
+
+#: classes/Settings_fields.class.php:23
+msgid "General Settings"
+msgstr ""
+
+#: classes/General.class.php:161
+msgid "Go to Add-ons"
+msgstr ""
+
+#: classes/General.class.php:162
+msgid "Go to Settings"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:27
+msgid "Heading Title"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rellaco.com"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:44
+msgid "Icon"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:52
+msgid "Icon 1"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:61
+msgid "Icon 10"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:62
+msgid "Icon 11"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:63
+msgid "Icon 12"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:64
+msgid "Icon 13"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:65
+msgid "Icon 14"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:66
+msgid "Icon 15"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:67
+msgid "Icon 16"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:68
+msgid "Icon 17"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:69
+msgid "Icon 18"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:53
+msgid "Icon 2"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:54
+msgid "Icon 3"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:55
+msgid "Icon 4"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:56
+msgid "Icon 5"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:57
+msgid "Icon 6"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:58
+msgid "Icon 7"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:59
+msgid "Icon 8"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:60
+msgid "Icon 9"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:169
+msgid "Icon Alignment"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:155
+msgid "Icon Background Color"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:135
+msgid "Icon Border Radius"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:187
+msgid "Icon Horizontal Position"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:227
+msgid "Icon Mobile Alignment"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:245
+msgid "Icon Mobile Horizontal Position"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:265
+msgid "Icon Mobile Vertical Position"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:115
+msgid "Icon Padding"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:95
+msgid "Icon Size"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:207
+msgid "Icon Vertical Position"
+msgstr ""
+
+#: classes/Settings_fields.class.php:46
+msgid ""
+"If phone numbers are being submitted without a country code, you can enable "
+"the option to set a static country code."
+msgstr ""
+
+#: classes/General.class.php:158
+msgid "Important Notice: 📢 Big update is here 🚀 "
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:39
+msgid "It will be displayed after the title."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:61
+msgid "It will be displayed on the bubble when the widget is minimized."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:28
+msgid "It will be displayed on the top of the widget."
+msgstr ""
+
+#: classes/Accounts.class.php:316
+msgid "Last First"
+msgstr ""
+
+#: classes/Accounts.class.php:275 classes/Accounts.class.php:277
+msgid "Last Name"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:175
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:233
+msgid "Left"
+msgstr ""
+
+#: templates/admin/direct_message.php:7
+msgid "Message:"
+msgstr ""
+
+#: classes/Addon_controller.class.php:315
+msgid "More Details"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:66
+msgid "Need help?"
+msgstr ""
+
+#: classes/Accounts.class.php:68
+msgid "New Account"
+msgstr ""
+
+#: classes/Accounts.class.php:282 classes/Accounts.class.php:284
+#: classes/Accounts.class.php:319
+msgid "Nickname"
+msgstr ""
+
+#: classes/General.class.php:159
+msgid ""
+"Now TWChat is modular and you can enable or disable features that you need."
+msgstr ""
+
+#: templates/admin/direct_message.php:9
+msgid "Number:"
+msgstr ""
+
+#: classes/Accounts.class.php:317
+msgid "Only First Name"
+msgstr ""
+
+#: classes/Accounts.class.php:318
+msgid "Only Last Name"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:44
+msgid "Open WhatsApp with"
+msgstr ""
+
+#: classes/Addon_controller.class.php:363
+#: classes/Addon_controller.class.php:371
+#: classes/Addon_controller.class.php:378
+#: classes/Addon_controller.class.php:396
+msgid "Paid Add-on"
+msgstr ""
+
+#: classes/Accounts.class.php:304 classes/Accounts.class.php:306
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:64
+msgid "Phone"
+msgstr ""
+
+#: classes/Accounts.class.php:244 classes/Accounts.class.php:246
+msgid "Photo"
+msgstr ""
+
+#: classes/Addon_controller.class.php:325
+#: classes/Addon_controller.class.php:331
+msgid "Please activate your license key."
+msgstr ""
+
+#: templates/admin/direct_message.php:19
+msgid "Please enter a valid number."
+msgstr ""
+
+#: classes/Social_settings.class.php:91
+msgid "Please enter your social links."
+msgstr ""
+
+#: classes/General.class.php:160
+msgid ""
+"Please note that you need to activate the add-ons and set up the plugin "
+"again."
+msgstr ""
+
+#: classes/Accounts.class.php:290
+msgid "Position or title of the owner of the account."
+msgstr ""
+
+#: classes/Accounts.class.php:63
+msgctxt "Post type general name"
+msgid "Accounts"
+msgstr ""
+
+#: templates/admin/settings.php:30
+msgid ""
+"Press <strong>cmd + s</strong> or <strong>ctrl + s</strong> to save quickly."
+msgstr ""
+
+#: classes/Accounts.class.php:105
+msgid "Profile"
+msgstr ""
+
+#: classes/Addon_controller.class.php:392
+msgid "Purchase & Install"
+msgstr ""
+
+#: classes/General.class.php:135
+msgid "Rate"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rellaco"
+msgstr ""
+
+#: classes/Settings_callback.class.php:172
+#: classes/Settings_callback.class.php:195
+msgid "Remove"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:176
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:234
+msgid "Right"
+msgstr ""
+
+#: classes/Settings_fields.class.php:57
+msgid "Select a country code to be used for all phone numbers."
+msgstr ""
+
+#: classes/Settings_callback.class.php:161
+#: classes/Settings_callback.class.php:184
+msgid "Select a social media"
+msgstr ""
+
+#: classes/Accounts.class.php:312
+msgid "Select how you want to display the name of the account."
+msgstr ""
+
+#: templates/admin/direct_message.php:11
+msgid "Send"
+msgstr ""
+
+#: templates/admin/direct_message.php:4
+msgid "Send a message to any number you want."
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Send_message.class.php:66
+msgid "Send Message"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Send_message.class.php:102
+msgid "Send via WhatsApp"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:140
+msgid "Set icon border radius between 0 to 50."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:192
+msgid "Set icon horizontal position between 0 to 100."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:250
+msgid "Set icon mobile horizontal position between 0 to 100."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:270
+msgid "Set icon mobile vertical position between 0 to 100."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:120
+msgid "Set icon padding between 0 to 50."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:100
+msgid "Set icon size between 20 to 100."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:212
+msgid "Set icon vertical position between 0 to 100."
+msgstr ""
+
+#: classes/General.class.php:82 classes/General.class.php:83
+#: classes/General.class.php:121
+msgid "Settings"
+msgstr ""
+
+#: classes/Settings.class.php:183
+msgid "Settings saved successfully."
+msgstr ""
+
+#: classes/Social_settings.class.php:117
+msgid "Social"
+msgstr ""
+
+#: classes/Social_settings.class.php:90
+msgid "Social Links"
+msgstr ""
+
+#: classes/Addon_controller.class.php:572
+#: classes/Addon_controller.class.php:642
+msgid "Something went wrong, please try again later."
+msgstr ""
+
+#: classes/Addon_controller.class.php:113
+msgid ""
+"Something went wrong. Please try again later. if problem persists, contact "
+"support."
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:71
+msgid "Style"
+msgstr ""
+
+#: classes/General.class.php:136 classes/Addon_controller.class.php:113
+msgid "Support"
+msgstr ""
+
+#: classes/Accounts.class.php:289
+msgid "Title"
+msgstr ""
+
+#: classes/Accounts.class.php:292
+msgid "Title of the account"
+msgstr ""
+
+#. Name of the plugin
+#: classes/General.class.php:65
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:25
+msgid "TWChat"
+msgstr ""
+
+#: templates/admin/addons.php:3
+msgid "TWChat Add-ons"
+msgstr ""
+
+#: classes/Addon_controller.class.php:218
+msgid "TWChat Settings"
+msgstr ""
+
+#: twchat.php:184
+msgid ""
+"TWChat: Please deactivate the premium version of the plugin to avoid "
+"conflicts."
+msgstr ""
+
+#: templates/admin/settings.php:3
+msgid "Two Way Chat Settings"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Send_message.class.php:117
+msgid "Type your message here"
+msgstr ""
+
+#: classes/General.class.php:163
+msgid "Understood, dismiss this notice"
+msgstr ""
+
+#: classes/Accounts.class.php:174
+msgid "Untitled"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:85
+msgid "Upload a custom icon for floating widget."
+msgstr ""
+
+#: classes/Accounts.class.php:70
+msgid "View Account"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:44
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:51
+msgid ""
+"We are here to answer any question you may have about our services. Reach "
+"out to us and we'll respond as soon as we can."
+msgstr ""
+
+#: classes/Accounts.class.php:106
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:63
+msgid "WhatsApp"
+msgstr ""
+
+#: classes/Accounts.class.php:348 classes/Accounts.class.php:350
+msgid "Whatsapp Message"
+msgstr ""
+
+#: classes/Accounts.class.php:340
+msgid "Whatsapp Number"
+msgstr ""
+
+#: classes/Accounts.class.php:341
+msgid "Whatsapp Number with country code."
+msgstr ""
+
+#: classes/Accounts.class.php:231
+msgid "When are you available from?"
+msgstr ""
+
+#: classes/Accounts.class.php:239
+msgid "When are you available to?"
+msgstr ""
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:77
+msgid "WooCommerce"
+msgstr ""

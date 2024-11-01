@@ -1,0 +1,815 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Two Way Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-02 16:20+0000\n"
+"PO-Revision-Date: 2023-08-09 19:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: twchatlang"
+
+#. URI of the plugin
+msgid "\"https://rellaco.com/product/TwoWayChat\""
+msgstr ""
+
+#: classes/Addon_controller.class.php:591
+#, php-format
+#| msgid ""
+#| "%s addon is required to activate this addon. Please activate it first."
+msgid ""
+"%s add-on is required to activate this add-on. Please activate it first."
+msgstr "برای فعال کردن این اددان فعال بودن اددان %s ضروری است."
+
+#: classes/Addon_controller.class.php:600
+#, php-format
+#| msgid ""
+#| "%s addon version %s or higher is required to activate this addon. Please "
+#| "update it first."
+msgid ""
+"%s add-on version %s or higher is required to activate this add-on. Please "
+"update it first."
+msgstr "اددان %s نسخه %s یا بالاتر ضروری است. لطفا اول برورسانی کنید."
+
+#: classes/Addon_controller.class.php:610
+#, php-format
+#| msgid ""
+#| "%s plugin is required to activate this addon. Please install and activate "
+#| "it first."
+msgid ""
+"%s plugin is required to activate this add-on. Please install and activate "
+"it first."
+msgstr ""
+"افزونه %s برای فعال کردن این اددان ضروری است. لطفا ابتدا آن را نصب و فعال "
+"کنید."
+
+#: classes/Addon_controller.class.php:619
+#, php-format
+#| msgid ""
+#| "%s plugin version %s or higher is required to activate this addon. Please "
+#| "update it first."
+msgid ""
+"%s plugin version %s or higher is required to activate this add-on. Please "
+"update it first."
+msgstr "افزونه %s نسخه %s یا بالاتر ضروری است. لطفا اول برورسانی کنید."
+
+#: classes/Accounts.class.php:64
+msgid "Account"
+msgstr "حساب کاربری"
+
+#: classes/Accounts.class.php:72
+msgid "Account Image"
+msgstr "عکس حساب کاربری"
+
+#: classes/Accounts.class.php:65 classes/Accounts.class.php:66
+#: classes/Accounts.class.php:71
+msgid "Accounts"
+msgstr "حساب ها"
+
+#: classes/Addon_controller.class.php:374
+msgid "Activate"
+msgstr "فعال کردن"
+
+#: classes/Addon_controller.class.php:359
+msgid "Activate in WordPress"
+msgstr "فعال کردن در وردپرس"
+
+#: classes/Addon_controller.class.php:325
+msgid "Active"
+msgstr "فعال"
+
+#: classes/Settings_callback.class.php:203
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: classes/Addon_controller.class.php:230
+msgid "Add-on already activated."
+msgstr "اددان در حال حاضر فعال است"
+
+#: classes/Addon_controller.class.php:234
+msgid "Add-on already deactivated."
+msgstr "اددان قبلاً غیرفعال شده است."
+
+#: classes/Addon_controller.class.php:222
+msgid "Add-on deactivated successfully."
+msgstr "اددان با موفقیت غیرفعال شد."
+
+#: classes/Addon_controller.class.php:238
+msgid "Add-on not found."
+msgstr "اددان پیدا نشد."
+
+#: classes/Addon_controller.class.php:226
+msgid "Add-on not installed."
+msgstr "اددان نصب نشده است."
+
+#: classes/General.class.php:122 classes/Addon_controller.class.php:90
+#: classes/Addon_controller.class.php:91
+msgid "Add-ons"
+msgstr "اددان ها"
+
+#. Description of the plugin
+msgid ""
+"Allowing admins to send messages to customers and vice versa through popular "
+"chat platforms."
+msgstr "امکان ارسال پیام به مشتریان و برعکس از طریق پیام رسان های محبوب"
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:54
+msgid "Application - Should have WhatsApp installed on your device"
+msgstr "اپلیکیشن - باید اپلیکیشن واتساپ بر روی دستگاه شما نصب شده باشد"
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:53
+msgid "Auto (Recommended)"
+msgstr "خودکار ( توصیه می شود )"
+
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:44
+msgid "Available Contacts"
+msgstr "راه های ارتباطی فعال"
+
+#: classes/Accounts.class.php:229
+msgid "Available From"
+msgstr "در دسترس از"
+
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:72
+msgid "Available from "
+msgstr "در دسترس از"
+
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:74
+msgctxt "Available from to"
+msgid "to"
+msgstr "تا"
+
+#: classes/Accounts.class.php:237
+msgid "Available To"
+msgstr "در دسترس تا"
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:55
+msgid "Browser (Web Application)"
+msgstr "وب سایت (Web Application )"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:49
+msgid "Bubble"
+msgstr "حعبه متن حبابی"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:285
+msgid "Bubble Background Color"
+msgstr "رنگ پس زمینه حباب"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:60
+msgid "Bubble Text"
+msgstr "متن حباب"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:299
+msgid "Bubble Text Color"
+msgstr "رنگ متن حباب"
+
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:43
+msgid "Chat with us"
+msgstr "بیا حرف برنیم"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:33
+msgid "Chat with us!"
+msgstr "بیا حرف برنیم!"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:314
+msgid "Chatbox Background Color"
+msgstr "رنگ پس زمینه چت باکس"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:342
+msgid "Chatbox Close Button Color"
+msgstr "رنگ دکمه بستن چت باکس"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:328
+msgid "Chatbox Header Color"
+msgstr "رنگ هدر چت باکس"
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:45
+msgid "Choose a way to start a conversation with your customers"
+msgstr "روشی را برای شروع مکالمه با مشتریان خود انتخاب کنید"
+
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:59
+msgid "Choose the available contacts for the floating widget."
+msgstr "روش های ارتباطی را برای ویجت شناور انتخاب کنید."
+
+#: helpers/AutoLoader.php:65 helpers/AutoLoader.php:109
+#, php-format
+msgid "Class %s not found. please contact the plugin developer."
+msgstr "%s در نظر گرفته نشده است. لطفا با توسعه دهنده افزونه تماس بگیرید."
+
+#: templates/admin/settings.php:4
+msgid ""
+"Configure your TWChat settings below. For more information, you can follow "
+"the <a href=\"https://rellaco.com/docs/intro/\" target=\"_blank\">"
+"documentation</a>."
+msgstr ""
+"TWChat را پیکربندی کنید. برای اطلاعات بیشتر، می‌توانید <a href=\"https:"
+"//rellaco.com/docs/intro/\" target=\"_blank\">مستندات</a> را دنبال کنید."
+
+#: classes/Addon_controller.class.php:218
+#, php-format
+msgid ""
+"Congratulations! Add-on activated successfully. <b> Configure it from %s.</b>"
+msgstr ""
+"تبریک می گویم! اددان با موفقیت فعال شد. <b> آن را از %s پیکربندی کنید.</b>"
+
+#: classes/Settings_fields.class.php:56
+msgid "Country Code"
+msgstr "کد کشور"
+
+#: classes/Accounts.class.php:67
+msgid "Create New Account"
+msgstr "ایجاد حساب جدید"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:50
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:80
+msgid "Custom Icon"
+msgstr "آیکون سفارشی"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:34
+msgid "Customize Floating Widget to your liking."
+msgstr "ویجت شناور را سفارشی سازی کنید."
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:76
+msgid "Customize Style in Customizer"
+msgstr "سفارشی سازی کنید"
+
+#: classes/Addon_controller.class.php:367
+msgid "Deactivate"
+msgstr "غیرفعال"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:51
+msgid "Default"
+msgstr "پیش فرض"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:38
+msgid "Description"
+msgstr "توضیحات"
+
+#: classes/Accounts.class.php:104
+msgid "Details"
+msgstr "جزئیات"
+
+#: classes/General.class.php:98 classes/General.class.php:99
+#: templates/admin/direct_message.php:3
+msgid "Direct Message"
+msgstr "پیام مستقیم"
+
+#: classes/Accounts.class.php:311
+msgid "display name as"
+msgstr "نمایش نام به صورت"
+
+#: classes/General.class.php:137
+msgid "Docs"
+msgstr "مستندات"
+
+#: classes/Addon_controller.class.php:385
+msgid "Download"
+msgstr "دانلود"
+
+#: classes/Accounts.class.php:343
+msgid "E.g. +18038475568"
+msgstr "+18038475568 "
+
+#: classes/Accounts.class.php:69
+msgid "Edit Account"
+msgstr "ویرایش حساب"
+
+#: classes/Accounts.class.php:297 classes/Accounts.class.php:299
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:65
+msgid "Email"
+msgstr "ایمیل"
+
+#: classes/Settings_fields.class.php:34
+msgid "Enable Direct Message"
+msgstr "امکان ارسال پیام مستقیم"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:50
+msgid "Enable or disable the bubble."
+msgstr "حباب ویجت را فعال یا غیر فعال کنید."
+
+#: classes/Settings_fields.class.php:45
+msgid "Enable Static Country Code"
+msgstr "کد کشور ثابت را فعال کنید"
+
+#: classes/Settings_fields.class.php:35
+msgid ""
+"Enable/Disable WhatsApp Button in admin toolbar for easy access to the send "
+"message page."
+msgstr ""
+"فعال/غیرفعال کردن دکمه واتساپ در نوار ابزار مدیریت برای دسترسی آسان به صفحه "
+"ارسال پیام."
+
+#: templates/admin/direct_message.php:8
+msgid "Enter your message here..."
+msgstr "پیام خود را در اینجا بنویسید ..."
+
+#: classes/Settings.class.php:185
+msgid "Error occurred while saving settings. Please try again."
+msgstr "هنگام ذخیره تنظیمات خطایی روی داد. لطفا دوباره تلاش کنید."
+
+#: classes/Addon_controller.class.php:242
+msgid "Error, Please try again later."
+msgstr "خطا، لطفا بعدا دوباره امتحان کنید."
+
+#: templates/admin/addons.php:4
+msgid "Extend the functionality of TWChat with these add-ons."
+msgstr "قابلیت Twchat را با اددان ها گسترش دهید."
+
+#: classes/Accounts.class.php:315
+msgid "First Last"
+msgstr "نام و نام خانوادگی"
+
+#: classes/Accounts.class.php:268 classes/Accounts.class.php:270
+msgid "First Name"
+msgstr "نام"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:31
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:91
+msgid "Floating Widget"
+msgstr "ویجت شناور"
+
+#: classes/Settings_fields.class.php:23
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: classes/General.class.php:161
+msgid "Go to Add-ons"
+msgstr "برو به اددان ها"
+
+#: classes/General.class.php:162
+msgid "Go to Settings"
+msgstr "برو به تنظیمات"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:27
+msgid "Heading Title"
+msgstr "عنوان اصلی"
+
+#. Author URI of the plugin
+msgid "https://rellaco.com"
+msgstr ""
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:44
+msgid "Icon"
+msgstr "آیکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:52
+msgid "Icon 1"
+msgstr "آیکون 1"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:61
+msgid "Icon 10"
+msgstr "آیکون 10"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:62
+msgid "Icon 11"
+msgstr "آیکون 11"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:63
+msgid "Icon 12"
+msgstr "آیکون 12"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:64
+msgid "Icon 13"
+msgstr "آیکون 13"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:65
+msgid "Icon 14"
+msgstr "آیکون 14"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:66
+msgid "Icon 15"
+msgstr "آیکون 15"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:67
+msgid "Icon 16"
+msgstr "آیکون 16"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:68
+msgid "Icon 17"
+msgstr "آیکون 17"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:69
+msgid "Icon 18"
+msgstr "آیکون 18"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:53
+msgid "Icon 2"
+msgstr "آیکون 2"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:54
+msgid "Icon 3"
+msgstr "آیکون 3"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:55
+msgid "Icon 4"
+msgstr "آیکون 4"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:56
+msgid "Icon 5"
+msgstr "آیکون 5"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:57
+msgid "Icon 6"
+msgstr "آیکون 6"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:58
+msgid "Icon 7"
+msgstr "آیکون 7"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:59
+msgid "Icon 8"
+msgstr "آیکون 8"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:60
+msgid "Icon 9"
+msgstr "آیکون 9"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:169
+msgid "Icon Alignment"
+msgstr "موقعیت ایکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:155
+msgid "Icon Background Color"
+msgstr "رنگ پس زمینه آیکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:135
+msgid "Icon Border Radius"
+msgstr "گردی آیکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:187
+msgid "Icon Horizontal Position"
+msgstr "موقعیت افقی آیکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:227
+msgid "Icon Mobile Alignment"
+msgstr "موقعیت آیکون در موبایل"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:245
+msgid "Icon Mobile Horizontal Position"
+msgstr "موقعیت افقی آیکون در موبایل"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:265
+msgid "Icon Mobile Vertical Position"
+msgstr "موقعیت عمودی آیکون در موبایل"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:115
+msgid "Icon Padding"
+msgstr "لایه داخلی آیکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:95
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:207
+msgid "Icon Vertical Position"
+msgstr "آیکون موقعیت عمودی"
+
+#: classes/Settings_fields.class.php:46
+msgid ""
+"If phone numbers are being submitted without a country code, you can enable "
+"the option to set a static country code."
+msgstr ""
+"اگر شماره‌های تلفن بدون کد کشور ثبت می شوند، می‌توانید گزینه \"کد کشور "
+"ثابت\" را فعال کنید."
+
+#: classes/General.class.php:158
+msgid "Important Notice: 📢 Big update is here 🚀 "
+msgstr "اطلاعیه مهم: 📢 به روز رسانی بزرگ اینجاست 🚀"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:39
+msgid "It will be displayed after the title."
+msgstr "بعد از عنوان نمایش داده می شود."
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:61
+msgid "It will be displayed on the bubble when the widget is minimized."
+msgstr "این متن در جعبه حبابی کنار ویجت نمایش داده خواهد شد."
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:28
+msgid "It will be displayed on the top of the widget."
+msgstr "در بالای ویجت نمایش داده می شود."
+
+#: classes/Accounts.class.php:316
+msgid "Last First"
+msgstr "نام خانوادگی نام"
+
+#: classes/Accounts.class.php:275 classes/Accounts.class.php:277
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:175
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:233
+msgid "Left"
+msgstr "چپ"
+
+#: templates/admin/direct_message.php:7
+msgid "Message:"
+msgstr "پیام :"
+
+#: classes/Addon_controller.class.php:315
+msgid "More Details"
+msgstr "جزئیات بیشتر"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:66
+msgid "Need help?"
+msgstr "به کمک نیاز دارید؟"
+
+#: classes/Accounts.class.php:68
+msgid "New Account"
+msgstr "حساب جدید"
+
+#: classes/Accounts.class.php:282 classes/Accounts.class.php:284
+#: classes/Accounts.class.php:319
+msgid "Nickname"
+msgstr "نام مستعار"
+
+#: classes/General.class.php:159
+msgid ""
+"Now TWChat is modular and you can enable or disable features that you need."
+msgstr ""
+"اکنون TWChat ماژولار است و می توانید ویژگی های مورد نیاز خود را فعال یا "
+"غیرفعال کنید."
+
+#: templates/admin/direct_message.php:9
+msgid "Number:"
+msgstr "شماره موبایل:"
+
+#: classes/Accounts.class.php:317
+msgid "Only First Name"
+msgstr "فقط نام"
+
+#: classes/Accounts.class.php:318
+msgid "Only Last Name"
+msgstr "فقط نام خانوادگی"
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:44
+msgid "Open WhatsApp with"
+msgstr "باز کنید واتساپ را با"
+
+#: classes/Addon_controller.class.php:363
+#: classes/Addon_controller.class.php:371
+#: classes/Addon_controller.class.php:378
+#: classes/Addon_controller.class.php:396
+msgid "Paid Add-on"
+msgstr "اددان پرومیوم"
+
+#: classes/Accounts.class.php:304 classes/Accounts.class.php:306
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:64
+msgid "Phone"
+msgstr "تلفن"
+
+#: classes/Accounts.class.php:244 classes/Accounts.class.php:246
+msgid "Photo"
+msgstr "تصویر"
+
+#: classes/Addon_controller.class.php:325
+#: classes/Addon_controller.class.php:331
+msgid "Please activate your license key."
+msgstr "لطفا لایسنس خود را فعال کنید."
+
+#: templates/admin/direct_message.php:19
+msgid "Please enter a valid number."
+msgstr "لطفا شماره تلفن معتبر وارد کنید."
+
+#: classes/Social_settings.class.php:91
+msgid "Please enter your social links."
+msgstr "لطفا لینک های شبکه های اجتماعی خود را وارد کنید."
+
+#: classes/General.class.php:160
+msgid ""
+"Please note that you need to activate the add-ons and set up the plugin "
+"again."
+msgstr ""
+"لطفاً توجه داشته باشید که باید اددان ها را فعال کرده و دوباره افزونه را راه "
+"تنظیم کنید."
+
+#: classes/Accounts.class.php:290
+msgid "Position or title of the owner of the account."
+msgstr "موقعیت یا عنوان مالک حساب"
+
+#: classes/Accounts.class.php:63
+msgctxt "Post type general name"
+msgid "Accounts"
+msgstr "حساب ها"
+
+#: templates/admin/settings.php:30
+msgid ""
+"Press <strong>cmd + s</strong> or <strong>ctrl + s</strong> to save quickly."
+msgstr ""
+"برای ذخیره سریع، <strong>cmd + s</strong> یا <strong>ctrl + s</strong> را "
+"فشار دهید."
+
+#: classes/Accounts.class.php:105
+msgid "Profile"
+msgstr "پروفایل"
+
+#: classes/Addon_controller.class.php:392
+msgid "Purchase & Install"
+msgstr "خرید و نصب"
+
+#: classes/General.class.php:135
+msgid "Rate"
+msgstr "نرخ"
+
+#. Author of the plugin
+msgid "Rellaco"
+msgstr "رللاکو"
+
+#: classes/Settings_callback.class.php:172
+#: classes/Settings_callback.class.php:195
+msgid "Remove"
+msgstr "حذف"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:176
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:234
+msgid "Right"
+msgstr "راست"
+
+#: classes/Settings_fields.class.php:57
+msgid "Select a country code to be used for all phone numbers."
+msgstr "کد کشوری را برای استفاده برای همه شماره‌های تلفن انتخاب کنید."
+
+#: classes/Settings_callback.class.php:161
+#: classes/Settings_callback.class.php:184
+msgid "Select a social media"
+msgstr "یک شبکه اجتماعی انتخاب کنید."
+
+#: classes/Accounts.class.php:312
+msgid "Select how you want to display the name of the account."
+msgstr "انتخاب کنید که چگونه می خواهید نام حساب را نمایش دهید."
+
+#: templates/admin/direct_message.php:11
+msgid "Send"
+msgstr "ارسال"
+
+#: templates/admin/direct_message.php:4
+msgid "Send a message to any number you want."
+msgstr "ارسال پیام به هر شماره ای که بخواهید."
+
+#: addons/woo_integrate_twchat_addon/classes/Send_message.class.php:66
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: addons/woo_integrate_twchat_addon/classes/Send_message.class.php:102
+msgid "Send via WhatsApp"
+msgstr "ارسال از طریق واتساپ"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:140
+msgid "Set icon border radius between 0 to 50."
+msgstr "گردی آیکون را بین 0 تا 50 تنظیم کنید."
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:192
+msgid "Set icon horizontal position between 0 to 100."
+msgstr "موقعیت افقی آیکون را بین 0 تا 100 تنظیم کنید."
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:250
+msgid "Set icon mobile horizontal position between 0 to 100."
+msgstr "موقعیت افقی آیکون را بین 0 تا 100 تنظیم کنید."
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:270
+msgid "Set icon mobile vertical position between 0 to 100."
+msgstr "تنظیم موقعیت عمودی آیکون موبایل بین 0 تا 100 است."
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:120
+msgid "Set icon padding between 0 to 50."
+msgstr "آیکون ها بین 0 تا 50 قرار می گیرند."
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:100
+msgid "Set icon size between 20 to 100."
+msgstr "اندازه آیکون را بین 20 تا 100 تنظیم کنید."
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:212
+msgid "Set icon vertical position between 0 to 100."
+msgstr "موقعیت عمودی آیکون را بین 0 تا 100 تنظیم کنید."
+
+#: classes/General.class.php:82 classes/General.class.php:83
+#: classes/General.class.php:121
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: classes/Settings.class.php:183
+msgid "Settings saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: classes/Social_settings.class.php:117
+msgid "Social"
+msgstr "شبکه اجتماعی"
+
+#: classes/Social_settings.class.php:90
+msgid "Social Links"
+msgstr "پیوندهای شبکه های اجتماعی"
+
+#: classes/Addon_controller.class.php:572
+#: classes/Addon_controller.class.php:642
+msgid "Something went wrong, please try again later."
+msgstr "مشکلی رخ داده است. لطفا بعدا دوباره امتحان کنید."
+
+#: classes/Addon_controller.class.php:113
+msgid ""
+"Something went wrong. Please try again later. if problem persists, contact "
+"support."
+msgstr ""
+"مشکلی پیش آمد. لطفاً بعداً دوباره امتحان کنید. اگر مشکل همچنان ادامه داشت، "
+"با پشتیبانی تماس بگیرید."
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:71
+msgid "Style"
+msgstr "طرح"
+
+#: classes/General.class.php:136 classes/Addon_controller.class.php:113
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: classes/Accounts.class.php:289
+msgid "Title"
+msgstr "عنوان"
+
+#: classes/Accounts.class.php:292
+msgid "Title of the account"
+msgstr "عنوان حساب کاربری"
+
+#. Name of the plugin
+#: classes/General.class.php:65
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:25
+msgid "TWChat"
+msgstr "چت دو طرفه"
+
+#: templates/admin/addons.php:3
+msgid "TWChat Add-ons"
+msgstr "اددان های افزونه چت دو طرفه"
+
+#: classes/Addon_controller.class.php:218
+msgid "TWChat Settings"
+msgstr "تنظیمات چت دو طرفه"
+
+#: twchat.php:184
+msgid ""
+"TWChat: Please deactivate the premium version of the plugin to avoid "
+"conflicts."
+msgstr "TWChat: لطفاً نسخه پریمیوم افزونه را غیرفعال کنید."
+
+#: templates/admin/settings.php:3
+msgid "Two Way Chat Settings"
+msgstr "تنظیمات چت دو طرفه"
+
+#: addons/woo_integrate_twchat_addon/classes/Send_message.class.php:117
+msgid "Type your message here"
+msgstr "پیام خود را در اینجا وارد کنید"
+
+#: classes/General.class.php:163
+msgid "Understood, dismiss this notice"
+msgstr "فهمیدم، اخطار رو ببند"
+
+#: classes/Accounts.class.php:174
+msgid "Untitled"
+msgstr "بدون عنوان"
+
+#: addons/floating_widget_twchat_addon/classes/Customizer.class.php:85
+msgid "Upload a custom icon for floating widget."
+msgstr "یک آیکون سفارشی برای ویجت شناور بارگذاری کنید."
+
+#: classes/Accounts.class.php:70
+msgid "View Account"
+msgstr "مشاهده حساب کاربری"
+
+#: addons/floating_widget_twchat_addon/classes/Settings.class.php:44
+#: addons/floating_widget_twchat_addon/classes/Template.class.php:51
+msgid ""
+"We are here to answer any question you may have about our services. Reach "
+"out to us and we'll respond as soon as we can."
+msgstr ""
+"ما اینجا هستیم تا به هر گونه سوالی که ممکن است در مورد خدمات ما داشته باشید "
+"پاسخ دهیم. به ما پیام دهید و ما در اسرع وقت پاسخ خواهیم داد."
+
+#: classes/Accounts.class.php:106
+#: addons/floating_widget_twchat_addon/classes/Accounts.class.php:63
+msgid "WhatsApp"
+msgstr "واتساپ"
+
+#: classes/Accounts.class.php:348 classes/Accounts.class.php:350
+msgid "Whatsapp Message"
+msgstr "پیام واتساپ"
+
+#: classes/Accounts.class.php:340
+msgid "Whatsapp Number"
+msgstr "شماره واتساپ"
+
+#: classes/Accounts.class.php:341
+msgid "Whatsapp Number with country code."
+msgstr "شماره واتس اپ با کد کشور"
+
+#: classes/Accounts.class.php:231
+msgid "When are you available from?"
+msgstr "از چه زمانی در دسترس هستید؟"
+
+#: classes/Accounts.class.php:239
+msgid "When are you available to?"
+msgstr "تا چه زمانی در دسترس هستید؟"
+
+#: addons/woo_integrate_twchat_addon/classes/Settings.class.php:77
+msgid "WooCommerce"
+msgstr "ووکامرس"
